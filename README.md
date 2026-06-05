@@ -9,3 +9,4 @@ Day 8 - Caesar Cipher project
 Day 9 - Secret Auction Program
 Day 10 - Calculator Project
 Day 11 - Blackjack Capstone
+Day 12 - Number Guessing Project
