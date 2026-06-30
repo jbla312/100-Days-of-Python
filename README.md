@@ -12,3 +12,5 @@ Day 11 - Blackjack Capstone
 Day 12 - Number Guessing Project
 Day 14 - Higher Lower
 Day 15 - Coffee Machine
+Day 17 - T/F Quiz
+Day 18 - Turtle Hirst Painting
